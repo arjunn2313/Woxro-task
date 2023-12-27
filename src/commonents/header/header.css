@@ -20,6 +20,10 @@
     
 }
 
+.closeBtn:hover .closeIcon {
+    transform: rotate(45deg);  
+  }
+
 
 .h-element1{
     font-size: 45px;
