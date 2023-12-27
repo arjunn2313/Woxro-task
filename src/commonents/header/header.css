@@ -1,0 +1,44 @@
+.header{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.closeBtn{
+    display: flex;
+    justify-content: end;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.closeIcon{
+    font-size: 30px;
+    cursor: pointer;
+    
+}
+
+
+.h-element1{
+    font-size: 45px;
+    font-family: Roboto;
+    text-align: center;
+}
+
+.h-element2{
+    max-width: 1024px;
+    max-height: 500px;
+}
+
+.h-element3{
+    font-family: Poppins;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.6rem;
+}
+
+.header-btn{
+    padding: 10px 90px;
+}
