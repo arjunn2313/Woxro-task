@@ -3,3 +3,75 @@
     flex-direction: column;
     gap: 75px;
 }
+
+@media(max-width:991px){
+    .h-element1{
+        font-size: 35px;
+    }
+    .h-element3{
+        
+        font-size: 16px;
+        line-height: 1.4rem;
+    }
+    .footer h6{
+        font-size: 30px;
+        text-align: center;
+    }
+    .footer p{
+        font-size: 10px;
+    }
+    .footer span{
+        font-size: 22px;
+         
+    }
+}
+
+@media(max-width:766px){
+    .h-element1{
+        font-size: 28px;
+    }
+    .h-element3{
+        
+        font-size: 14px;
+        line-height: 1.3rem;
+    }
+    .footer h6{
+        font-size: 25px;
+        text-align: center;
+    }
+    .footer p{
+        font-size: 8px;
+    }
+    .footer span{
+        font-size: 16px;
+        text-align: center;
+         
+    }
+}
+
+@media(max-width:766px){
+    .h-element1{
+        font-size: 20px;
+    }
+    .h-element3{
+        
+        font-size: 13px;
+        line-height: 1.3rem;
+    }
+    .footer h6{
+        font-size: 16px;
+        text-align: center;
+    }
+    .footer p{
+        font-size: 6px;
+    }
+    .footer span{
+        font-size: 13px;
+        text-align: center;
+         
+    }
+    .b2-child2-elemet h6{
+        font-size: 30px;
+        
+       }
+}
